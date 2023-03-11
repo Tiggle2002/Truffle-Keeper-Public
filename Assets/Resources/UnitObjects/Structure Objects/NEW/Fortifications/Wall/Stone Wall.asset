@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab7386261a02024d9dccf2ca7d74d8e, type: 3}
+  m_Name: Stone Wall
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1537513627, guid: b58f81b7f1aa8e34db9ac0a93adeda77, type: 3}
+  description: 
+  purchaseable: 1
+  price: 0
+  unlockedLevel: 0
+  craftingRecipe:
+  - item: {fileID: 11400000, guid: cc21c79fc4cdec2418778d7efc7bf907, type: 2}
+    quantity: 30
+  upgradeable: 0
+  upgradedStructureData: {fileID: 0}
+  prefab: {fileID: 0}
+  healthData: {fileID: 11400000, guid: 8de257f64b1713945af1053bce08e26a, type: 2}
+  type: 0
+  structureLevels:
+  - sprite: {fileID: 2043737360, guid: b58f81b7f1aa8e34db9ac0a93adeda77, type: 3}
+    healthPercentage: 0
+  - sprite: {fileID: 2001711568, guid: b58f81b7f1aa8e34db9ac0a93adeda77, type: 3}
+    healthPercentage: 33
+  - sprite: {fileID: 1049326667, guid: b58f81b7f1aa8e34db9ac0a93adeda77, type: 3}
+    healthPercentage: 66
+  - sprite: {fileID: 1537513627, guid: b58f81b7f1aa8e34db9ac0a93adeda77, type: 3}
+    healthPercentage: 100

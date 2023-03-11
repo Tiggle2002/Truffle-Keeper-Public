@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975d3ae68456c4b43a05eac7550a8cdf, type: 3}
+  m_Name: Acorn
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: 14d7aff9ced51364489aadf830fdf645, type: 3}
+  ID: Acorn
+  description: 
+  type: 3
+  category: 1
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 500
+  holdable: 0
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 1
+  price: 1
+  oneTimePurchase: 0
+  requiredItem: {fileID: 11400000, guid: 37a53a994a3553143b2de8c00ef838a9, type: 2}
+  craftingRecipe: []
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 0
+  holdToUse: 0
+  damage: 10
+  combos: []
+  animatorSpeed: 0
+  useLength: 0
+  attackDelay: 0
+  cooldown: 0
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 1007606282085923406, guid: b47de6c81f88d5f4eae931c27627d172, type: 3}
+  dropoff: 1

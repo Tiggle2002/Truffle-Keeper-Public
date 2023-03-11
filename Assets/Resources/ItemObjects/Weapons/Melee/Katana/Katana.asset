@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f440f05711482074e975d679d0009af4, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: a0a19ae3f5d382745b7d0a94ae069135, type: 3}
+  ID: Katana
+  description: 'Expertly Smithed Katana. '
+  type: 1
+  category: 0
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 1
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 1
+  price: 75
+  oneTimePurchase: 1
+  requiredItem: {fileID: 0}
+  craftingRecipe:
+  - item: {fileID: 11400000, guid: 1b08c3ad77ce7a34cb343f5a4a567fd3, type: 2}
+    quantity: 6
+  - item: {fileID: 11400000, guid: 7bc8d38239091ea49bc78bce3fdd0726, type: 2}
+    quantity: 1
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 1
+  holdToUse: 0
+  damage: 15
+  combos:
+  - damage: 5
+    colliderData: {fileID: 11400000, guid: 2562a1f77d8f6694ebfd081b0834f948, type: 2}
+    attackDelay: 0.1
+    animationName: SwingOne
+    animationLength: 0.3
+    boostX: 4
+    animationType: 0
+    animationIndex: 0
+    audioClip: {fileID: 8300000, guid: 00c1fbdbc4cc15e4895061b94d40cd8a, type: 3}
+    knockback: {x: 10, y: 0}
+    animation: -496255798
+  - damage: 10
+    colliderData: {fileID: 11400000, guid: 57e789e3670ba454491446a349663258, type: 2}
+    attackDelay: 0.1
+    animationName: FirstStab
+    animationLength: 0.3
+    boostX: 8
+    animationType: 2
+    animationIndex: 0
+    audioClip: {fileID: 8300000, guid: 932424c2edd1ace4c9723b1b9fae17a5, type: 3}
+    knockback: {x: 8.5, y: 0}
+    animation: -1983008675
+  - damage: 12
+    colliderData: {fileID: 11400000, guid: 2562a1f77d8f6694ebfd081b0834f948, type: 2}
+    attackDelay: 0.1
+    animationName: SwingTwo
+    animationLength: 0.3
+    boostX: 8
+    animationType: 0
+    animationIndex: 1
+    audioClip: {fileID: 8300000, guid: 28790ddbb3fd85a4dade340b6196b063, type: 3}
+    knockback: {x: 8.5, y: 3.5}
+    animation: -1983008675
+  - damage: 16
+    colliderData: {fileID: 11400000, guid: 9f0698810e96cba4ea4d281b1a37a9d1, type: 2}
+    attackDelay: 0.1
+    animationName: SecondStab
+    animationLength: 0.3
+    boostX: 8
+    animationType: 2
+    animationIndex: 1
+    audioClip: {fileID: 8300000, guid: 9c129c1fbdd714e4f9e4cafadd92479e, type: 3}
+    knockback: {x: 20, y: 0}
+    animation: 559056995
+  animatorSpeed: 1.35
+  useLength: 0.35
+  attackDelay: 0.005
+  cooldown: 0.2
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 480118727061088337, guid: aa6c790f791a3d2408c4327a17ea21c2, type: 3}

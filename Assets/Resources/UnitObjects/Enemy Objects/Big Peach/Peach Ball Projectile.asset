@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975d3ae68456c4b43a05eac7550a8cdf, type: 3}
+  m_Name: Peach Ball Projectile
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: a4d2014df61efc046ba0a9f937917cca, type: 3}
+  ID: Peach Ball
+  description: 
+  type: 3
+  inventoryBased: 0
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 0
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 0
+  requiredItem: {fileID: 0}
+  comboWeapon: 0
+  holdToUse: 0
+  damage: 10
+  combos: []
+  animatorSpeed: 0
+  useLength: 0
+  attackDelay: 0
+  cooldown: 0
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 655920362436021360, guid: ab47612178daf0f4991b737a2d22a741, type: 3}
+  dropoff: 0

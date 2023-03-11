@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f27e7d3c9d82a4d945bbf5f4f0095d, type: 3}
+  m_Name: Stone Sword
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: 221121485df77414b8e26974be5ea3fb, type: 3}
+  ID: Stone Sword
+  description: 'Stone Sword
+
+'
+  type: 1
+  category: 0
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 1
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 1
+  requiredItem: {fileID: 0}
+  craftingRecipe:
+  - item: {fileID: 11400000, guid: cc21c79fc4cdec2418778d7efc7bf907, type: 2}
+    quantity: 4
+  - item: {fileID: 11400000, guid: 7bc8d38239091ea49bc78bce3fdd0726, type: 2}
+    quantity: 2
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 1
+  holdToUse: 0
+  damage: 0
+  combos:
+  - damage: 2
+    colliderData: {fileID: 11400000, guid: 2166ad1eb91d08348b8fa5e4e493d413, type: 2}
+    attackDelay: 0.1
+    animationName: UseOne
+    animationLength: 0.35
+    boostX: 0.5
+    animationType: 2
+    animationIndex: 0
+    audioClip: {fileID: 8300000, guid: 0ac7751f4fe24e74db25f35649d0f6ce, type: 3}
+    knockback: {x: 1, y: 0}
+    animation: -496255798
+  - damage: 5
+    colliderData: {fileID: 11400000, guid: 2166ad1eb91d08348b8fa5e4e493d413, type: 2}
+    attackDelay: 0.15
+    animationName: UseTwo
+    animationLength: 0.35
+    boostX: 1.75
+    animationType: 2
+    animationIndex: 1
+    audioClip: {fileID: 8300000, guid: 28790ddbb3fd85a4dade340b6196b063, type: 3}
+    knockback: {x: 5.5, y: 2.5}
+    animation: -1983008675
+  animatorSpeed: 1.25
+  useLength: 0.05
+  attackDelay: 0
+  cooldown: 0.05
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 516091129481995957, guid: 2ef0c1e1417a1a94f92cfa90df40ece8, type: 3}

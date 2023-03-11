@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4283b9b6ccf4349b1085cc7d6b952e, type: 3}
+  m_Name: Oak Tree Stump Structure Data
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1217893568, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+  description: 
+  size: 0
+  constructionTime: 0
+  purchaseable: 0
+  price: 0
+  craftingRecipe: []
+  upgradeable: 0
+  upgradedStructureData: {fileID: 0}
+  prefab: {fileID: 0}
+  healthData: {fileID: 0}
+  type: 0
+  structureLevels:
+  - sprite: {fileID: -156096891, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+    healthPercentage: 20
+  - sprite: {fileID: 1107695376, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+    healthPercentage: 40
+  - sprite: {fileID: -1020220212, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+    healthPercentage: 60
+  - sprite: {fileID: -1050625611, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+    healthPercentage: 80
+  - sprite: {fileID: 1217893568, guid: 46d145b2678002e4ca36246ab95a4a37, type: 3}
+    healthPercentage: 100

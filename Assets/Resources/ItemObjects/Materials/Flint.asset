@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f27e7d3c9d82a4d945bbf5f4f0095d, type: 3}
+  m_Name: Flint
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: b4c378dd298502443aab1d1aef246fb9, type: 3}
+  ID: Flint
+  description: 
+  type: 5
+  category: 2
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 1000
+  holdable: 0
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 0
+  requiredItem: {fileID: 0}
+  craftingRecipe: []
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 0
+  holdToUse: 0
+  damage: 0
+  combos: []
+  animatorSpeed: 0
+  useLength: 0
+  attackDelay: 0
+  cooldown: 0
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 0}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975d3ae68456c4b43a05eac7550a8cdf, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: -940465808, guid: c114cced950ecd74298666bb92043959, type: 3}
+  ID: Arrow
+  description: 
+  type: 3
+  category: 1
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 100
+  holdable: 0
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 0
+  requiredItem: {fileID: 11400000, guid: 280426395790a194cb2a12d03c2674d4, type: 2}
+  craftingRecipe:
+  - item: {fileID: 11400000, guid: cc21c79fc4cdec2418778d7efc7bf907, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 7bc8d38239091ea49bc78bce3fdd0726, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 07cf819c2f6f00844b198fe88923ffaa, type: 2}
+    quantity: 1
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 0
+  holdToUse: 0
+  damage: 2
+  combos: []
+  animatorSpeed: 0
+  useLength: 0
+  attackDelay: 0
+  cooldown: 0
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 7094686863288096936, guid: 255a695dec5330e49a2af05ca73555cb, type: 3}
+  dropoff: 1

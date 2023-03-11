@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4283b9b6ccf4349b1085cc7d6b952e, type: 3}
+  m_Name: Large Oak Tree Structure Data
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1212864049, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+  description: 
+  size: 0
+  constructionTime: 0
+  purchaseable: 0
+  price: 0
+  craftingRecipe: []
+  upgradeable: 0
+  upgradedStructureData: {fileID: 0}
+  prefab: {fileID: 0}
+  healthData: {fileID: 0}
+  type: 0
+  structureLevels:
+  - sprite: {fileID: 1415097420, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+    healthPercentage: 20
+  - sprite: {fileID: -477341256, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+    healthPercentage: 40
+  - sprite: {fileID: -476498924, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+    healthPercentage: 60
+  - sprite: {fileID: 67203157, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+    healthPercentage: 80
+  - sprite: {fileID: 1212864049, guid: 20086f37036d4ed49b3369db7be2464f, type: 3}
+    healthPercentage: 100

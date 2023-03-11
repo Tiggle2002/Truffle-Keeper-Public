@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f440f05711482074e975d679d0009af4, type: 3}
+  m_Name: Popcorn Cannon
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: -8503712419147817401, guid: 7f28d60c0662dfc4595531cdf454e582, type: 3}
+  ID: Popcorn Cannon
+  description: 
+  type: 1
+  category: 0
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 1
+  equippedOffset: {x: 0.9379472, y: 0.7587588, z: 0}
+  purchaseable: 1
+  price: 50
+  oneTimePurchase: 1
+  requiredItem: {fileID: 0}
+  craftingRecipe: []
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 0
+  holdToUse: 1
+  damage: 5
+  combos: []
+  animatorSpeed: 1
+  useLength: 0.1
+  attackDelay: 0.05
+  cooldown: 0.2
+  ammoBased: 1
+  ammoObject: {fileID: 11400000, guid: a94f99d50d535aa4ab1a56f25ff9b1b6, type: 2}
+  range: 75
+  prefab: {fileID: 1192621124757920927, guid: 56feab0c72252e845ac73e3d035bf10d, type: 3}

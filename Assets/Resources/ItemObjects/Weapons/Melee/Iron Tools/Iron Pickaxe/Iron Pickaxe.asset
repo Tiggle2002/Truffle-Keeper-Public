@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f440f05711482074e975d679d0009af4, type: 3}
+  m_Name: Iron Pickaxe
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: 21300000, guid: 18bdbd48a9894b84a89b2ed016c7f49f, type: 3}
+  ID: Iron Pickaxe
+  description: 
+  type: 1
+  category: 0
+  inventoryBased: 1
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 1
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 1
+  requiredItem: {fileID: 0}
+  craftingRecipe:
+  - item: {fileID: 11400000, guid: e0b81bd7dff8ee74dbe063218699f2fe, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 898d09f971663f2479a19584d7b357dd, type: 2}
+    quantity: 2
+  - item: {fileID: 11400000, guid: 1b08c3ad77ce7a34cb343f5a4a567fd3, type: 2}
+    quantity: 3
+  toolType: 2
+  toolTier: 2
+  comboWeapon: 1
+  holdToUse: 0
+  damage: 15
+  combos:
+  - damage: 6
+    colliderData: {fileID: 11400000, guid: 30aabcb2570c65047a2aee891b399117, type: 2}
+    attackDelay: 0.1
+    animationName: Use
+    animationLength: 0.29
+    boostX: 0
+    animationType: 0
+    animationIndex: 0
+    audioClip: {fileID: 8300000, guid: 958772d6c56e48a43bf69d2b92528dff, type: 3}
+    knockback: {x: 0, y: 0}
+    animation: -496255798
+  animatorSpeed: 1.25
+  useLength: 0.2
+  attackDelay: 0.1
+  cooldown: 0.2
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 1358160591388865650, guid: 25752b57eccf33b458a6195a7abacef5, type: 3}

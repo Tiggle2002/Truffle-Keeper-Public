@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975d3ae68456c4b43a05eac7550a8cdf, type: 3}
+  m_Name: Ballista Bolt
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  sprite: {fileID: -7343189733875078726, guid: 518e3abbd81a5bf44b0d16936e7d4dae, type: 3}
+  ID: Ballista Bolt
+  description: 
+  type: 3
+  category: 1
+  inventoryBased: 0
+  quantity: 1
+  maxStackQuantity: 1
+  holdable: 0
+  equippedOffset: {x: 0, y: 0, z: 0}
+  purchaseable: 0
+  price: 0
+  oneTimePurchase: 0
+  requiredItem: {fileID: 0}
+  craftingRecipe: []
+  toolType: 0
+  toolTier: 0
+  comboWeapon: 0
+  holdToUse: 0
+  damage: 1
+  combos: []
+  animatorSpeed: 0
+  useLength: 0
+  attackDelay: 0
+  cooldown: 0
+  ammoBased: 0
+  ammoObject: {fileID: 0}
+  range: 0
+  prefab: {fileID: 74589810393580110, guid: a7b77903787522f478db2932956eedda, type: 3}
+  dropoff: 0

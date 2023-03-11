@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1714897333d991a4383e97aad77656e5, type: 3}
+  m_Name: Button Movement Data
+  m_EditorClassIdentifier: 
+  maxSpeed: 4
+  maxVerticalSpeed: 4
+  maxAcceleration: 35
+  maxAirAcceleration: 20
+  jumpHeight: 4
+  maxJumps: 0
+  downwardMovementMultiplier: 4
+  upwardMovementMultiplier: 1.75
+  coyoteTime: 0.5
+  groundCheckBoxSize: 0.1
+  defaultGravityScale: 1
