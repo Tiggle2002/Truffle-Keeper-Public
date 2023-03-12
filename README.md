@@ -15,6 +15,10 @@ Start with nothing, collect resources, explore, hunt animals, and build your def
 Build Walls, Crafting Stations, and more.
 ![image](https://user-images.githubusercontent.com/107687425/224516772-23a91696-60f7-4a6f-9f89-ead4f5194993.png)
 
+Purchase whacky weapons from the magic merchant.
+![image](https://user-images.githubusercontent.com/107687425/224517096-b1436984-c5c5-4b7b-8f17-3b8e996fca65.png)
+
+
 Defend your home against your mushroom foes.
 ![image](https://user-images.githubusercontent.com/107687425/224517019-ea5ee862-8916-4ff4-8f07-acd2eda95d3b.png)
 ![image](https://user-images.githubusercontent.com/107687425/224517020-654a9eb5-c4b5-447d-ab68-4879a54f1ba8.png)
