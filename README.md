@@ -8,10 +8,15 @@ Explore the vibrant world and gather resources to craft defences, weapons, and p
 all while defending the home that you've build from the onslaught of mushroom-themed enemies.
 
 Start with nothing, collect resources, explore, hunt animals, and build your defences.
-![image](https://user-images.githubusercontent.com/107687425/224516779-721e3af8-e2ee-4276-887d-e9e83fb63e7e.png)
-
-
 ![image](https://user-images.githubusercontent.com/107687425/224516751-1eb4f723-c039-4666-a397-102ec16bbe60.png)
+
+![image](https://user-images.githubusercontent.com/107687425/224516779-721e3af8-e2ee-4276-887d-e9e83fb63e7e.png)
 
 Build Walls, Crafting Stations, and more.
 ![image](https://user-images.githubusercontent.com/107687425/224516772-23a91696-60f7-4a6f-9f89-ead4f5194993.png)
+
+Defend your home against your mushroom foes.
+![image](https://user-images.githubusercontent.com/107687425/224517019-ea5ee862-8916-4ff4-8f07-acd2eda95d3b.png)
+![image](https://user-images.githubusercontent.com/107687425/224517020-654a9eb5-c4b5-447d-ab68-4879a54f1ba8.png)
+
+We are an ambitious two-person team composed of Ali, a talented artist, and Tal, a developing programmer and game designer. Despite our recent entry into the field, we are committed to creating high-quality games that engage and captivate our audience. Our passion for game development fuels our drive to constantly improve and push boundaries, and we are excited to see where our collaboration takes us in the future.
