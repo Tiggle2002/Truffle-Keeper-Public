@@ -15,6 +15,9 @@ Start with nothing, collect resources, explore, hunt animals, and build your def
 Build Walls, Crafting Stations, and more.
 ![image](https://user-images.githubusercontent.com/107687425/224516772-23a91696-60f7-4a6f-9f89-ead4f5194993.png)
 
+Craft weapons and tools to facilitate base expansion.
+![image](https://user-images.githubusercontent.com/107687425/224517126-58b64333-8d9f-4ae6-bca9-2d2f4bd474f3.png)
+
 Purchase whacky weapons from the magic merchant.
 ![image](https://user-images.githubusercontent.com/107687425/224517096-b1436984-c5c5-4b7b-8f17-3b8e996fca65.png)
 
